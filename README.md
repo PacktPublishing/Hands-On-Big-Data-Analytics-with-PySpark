@@ -48,8 +48,8 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                      | OS required                        |
 | -------- | ---------------------------------------| -----------------------------------|
-| 1-9      | Apache Spark (latest version), PySpark,
-             Intellij IDEA, Java, Jupyter Notebook  | Windows, Mac OS X, and Linux (Any) |
+| 1-9      | Apache Spark (latest version), PySpark,|                                    |
+|          | Intellij IDEA, Java, Jupyter Notebook  | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781838644130_ColorImages.pdf).
 
