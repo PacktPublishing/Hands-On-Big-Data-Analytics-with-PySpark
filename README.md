@@ -42,7 +42,7 @@ test("Should use immutable DF API") {
 **Following is what you need for this book:**
 Copy and paste the Audience section from the EPIC.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
 
 ### Software and Hardware List
 
