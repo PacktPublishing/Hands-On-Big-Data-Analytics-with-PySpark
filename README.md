@@ -40,7 +40,7 @@ test("Should use immutable DF API") {
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+This book is for developers, data scientists, business analysts, or anyone who needs to reliably analyze large amounts of large-scale, real-world data. Whether you're tasked with creating your company's business intelligence function or creating great data platforms for your machine learning models, or are looking to use code to magnify the impact of your business, this book is for you.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
 
