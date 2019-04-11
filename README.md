@@ -2,7 +2,7 @@
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/hands-big-data-analytics-pyspark?utm_source=github&utm_medium=repository&utm_campaign=9781838644130"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/1/b14139.png" alt="Hands-On Big Data Analytics with PySpark" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Big Data Analytics with PySpark], published by Packt.
+This is the code repository for Hands-On Big Data Analytics with PySpark, published by Packt.
 
 **Analyze large datasets and discover techniques for testing, immunizing, and parallelizing Spark jobs**
 
